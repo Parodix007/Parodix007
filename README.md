@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">A Software Engineer for Wunderman Thompson Technology</h3>
+<h3 align="center">A Programmer for Asseco Data Systems</h3>
 
 - 🌱 I’m currently learning **AWS**
 
